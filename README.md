@@ -5,8 +5,7 @@ Currently learning Python, algorithms, and exploring machine learning through ha
 - 🌱 My Goals
 Build creative and useful projects that combine logic, math, and AI.
 - 📫 My Digital Corner
-- 
- 🔗 [LinkedIn](https://www.linkedin.com/in/wiam-boulif-7e7)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wiam-boulif-7e7)
 
 
 <!---

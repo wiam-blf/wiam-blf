@@ -1,6 +1,7 @@
 👋Hi, I'm Wiam Boulif!
 I'm an 18-year-old student passionate about math, programming, and AI.  
 Currently learning Python, algorithms, and exploring machine learning through hands-on projects.
+
 🌱 My Goals
 Build creative and useful projects that combine logic, math, and AI.
 - 📫 My Digital Corner
